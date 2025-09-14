@@ -17,7 +17,7 @@
             <img src="../img/bg.svg" alt="">
         </div>
         <div class="contenido-login">
-            <form action="">
+            <form action="../controller/loginController.php" method="post">
                 <img src="../img/logo.png" alt="">
                 <h2>Farmacia Jhor</h2>
                 <div class="input-div dni">
